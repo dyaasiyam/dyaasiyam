@@ -1,5 +1,7 @@
 ### Hi there 👋, my name is Dyaa
 #### I am GitHub Readme Generator's creator 
+![I am GitHub Readme Generator's creator ](https://www.lucidcrystal.co.uk/images/logos/laravel-logo.svg)
+
 I am a web developer using PHP Laravel with more than 4 years of experience. I love learning web programming. I present to you my work on GitHub.
 
 Skills: 
@@ -9,7 +11,6 @@ Skills:
 * PHP Laravel
 * Mysql
 * Bootstrap
-
 - 🔭 I’m currently working on this page. 
 
 
