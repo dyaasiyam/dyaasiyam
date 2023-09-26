@@ -4,7 +4,13 @@
 
 I am a web developer using PHP Laravel with more than 4 years of experience. I love learning web programming. I present to you my work on GitHub.
 
-Skills: HTML / CSS/ JS / PHP Laravel / Mysql/Bootstrap
+Skills: 
+* HTML
+* CSS
+* JS
+* PHP Laravel
+* Mysql
+* Bootstrap
 
 - 🔭 I’m currently working on this page. 
 
